@@ -2310,5 +2310,56 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Yarob50">
+                <img src="https://avatars.githubusercontent.com/u/109054100?v=4" width="50">
+                <br>
+                <h2>إياد الحطامي</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- MyWebsite -->
+                    <td>
+                        <a href="https://eyadcs.dev">
+                            <img src="./images/eyadcs-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// MyWebsite //-->
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://x.com/eyadalhattami0">
+                            <img src="./images/x-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/ayad.alhtamy.75529">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/ey__ht">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/alhattami0">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <!--// Eyad Alhattami //-->
 
 </table>
